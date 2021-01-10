@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ryland</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on **a unique tabletop game platform**
 
-- 🌱 I’m currently learning **multi-peer websocket and webrtc**
+- 🌱 I’m currently learning **Multi-peer Websocket and WebRTC**
 
 - 📫 How to reach me **rcrouse@gmail.com**
 
-- ⚡ Fun fact **proud Kenzie Academy alumni**
+- ⚡ Fun fact **proud Kenzie Academy alumni!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
