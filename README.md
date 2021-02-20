@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Multi-peer Websocket and WebRTC**
 
-- 📫 How to reach me **rcrouse@gmail.com**
+- 📫 How to reach me **rmikhailc@gmail.com**
 
 - ⚡ Fun fact **proud Kenzie Academy alumni!**
 
